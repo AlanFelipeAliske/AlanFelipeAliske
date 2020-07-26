@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-###- 👋 Welcome to my profile
+### - 👋 Welcome to my profile
 
 - 🔭 I am currently a Front-End Developer
 - 🌱 Studying and deepening my knowledge, mainly in the area of Front-End development
