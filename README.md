@@ -19,7 +19,8 @@
     <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="visualstudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
-    <img align="center" alt="pycharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">  
+    <img align="center" alt="pycharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
+    <img align="center" alt="angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
   </div>
 </a>
 
